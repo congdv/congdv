@@ -21,10 +21,6 @@ I am a self-taught developer based in **Toronto** with a passion for building so
 - **Tech:** TypeScript, Go, Gin, Postgres, Railway, Docker
 - **Focus:** Deliver REST API from google sheet
 
-### [gsheetbase.com](https://github.com/congdv/gsheetbase.com)
-- **Tech:** TypeScript, Go, Gin, Postgres, Railway, Docker
-- **Focus:** Deliver REST API from google sheet
-
 #### [30 Days of Sharing](https://github.com/congdv/30daysofsharing)
 *A personal initiative to document and share 30 days of technical learning and insights.*
 - **Tech:** JavaScript, Next.js
@@ -48,6 +44,9 @@ I am a self-taught developer based in **Toronto** with a passion for building so
 *A clean, efficient markdown note-taking application.*
 - **Tech:** TypeScript
 
+### [Photo Notes - Mobile App](https://github.com/congdv/photo-notes)
+- **Tech:** React Native
+- **Focus:** Deliver Mobile App
 ---
 
 ### 📫 Connect with Me
