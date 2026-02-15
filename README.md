@@ -50,7 +50,5 @@ I am a self-taught developer based in **Toronto** with a passion for building so
 ---
 
 ### 📫 Connect with Me
-- **Portfolio:** [congdv.com](https://congdv.com)
 - **Twitter:** [@congdao9](https://twitter.com/congdao9)
-- **Email:** congdaovan94[at]gmail{.}com
 - **Location:** Toronto, Canada 🇨🇦
