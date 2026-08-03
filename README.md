@@ -1,5 +1,5 @@
 # Hi, I'm Cong  👋
-### Full-Stack Software Developer | Open Source Enthusiast
+### Full-Stack Software Developer 
 
 I am a self-taught developer based in **Toronto** with a passion for building software that solves real-world problems. With a background in Computer Science and 5+ years of professional experience, I specialize in crafting robust applications using modern web technologies and exploring low-level systems.
 
